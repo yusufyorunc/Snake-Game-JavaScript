@@ -1,4 +1,4 @@
-# Snake Game JavaScript
+# Snake Game Vanilla JavaScript
 
 ![Snake Game Screenshot](snake_game.PNG)
 
